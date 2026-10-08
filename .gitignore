@@ -1,0 +1,4 @@
+# OS clutter that shows up when you browse the folder
+.DS_Store
+Thumbs.db
+desktop.ini
